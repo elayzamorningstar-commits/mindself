@@ -15,17 +15,6 @@ Seu leitor pessoal de ebooks — modo escuro, marcações, anotações e progres
 💾 Funciona offline — seus livros e dados ficam salvos no dispositivo
 
 
-📱 Como instalar no Android
-
-Acesse o link do app no Chrome para Android:
-
-   https://seuusuario.github.io/mindself
-
-Toque nos três pontinhos ⋮ no canto superior direito
-Selecione "Adicionar à tela inicial"
-Pronto — o MindSelf aparece como ícone na sua tela! 🎉
-
-
 🚀 Como usar
 
 Toque em + para adicionar um livro (PDF ou TXT)
